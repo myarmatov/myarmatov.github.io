@@ -73,18 +73,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-99059138-2"
 
 
 # Site Author
 author:
   name             : "Arya Farahi"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Michigan - Ann Arbor, Michigan Data Science Team (MDST) Project Manager, Member of DES, DESI, LoCuSS, and XXL collaboration, Physisist and Astronomer, Passionate about data science"
+  bio              : "PhD student at University of Michigan - Ann Arbor, Michigan Data Science Team (MDST) Project Manager, Member of DES, DESI, LoCuSS, and XXL collaboration, Physicist and Astronomer, Passionate about data science"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en"
+  email            : "aryaf@umich.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "afarahi"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0777-4618"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
