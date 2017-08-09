@@ -80,11 +80,7 @@ analytics:
 author:
   name             : "Arya Farahi"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Michigan - Ann Arbor,
-                      Michigan Data Science Team (MDST) Project Manager,
-                      Member of DES, DESI, LoCuSS, and XXL collaboration,
-                      Physisist and Astronomer,
-                      Passionate about data science"
+  bio              : "PhD student at University of Michigan - Ann Arbor, Michigan Data Science Team (MDST) Project Manager, Member of DES, DESI, LoCuSS, and XXL collaboration, Physisist and Astronomer, Passionate about data science"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
