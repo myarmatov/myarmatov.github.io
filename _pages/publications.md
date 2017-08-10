@@ -10,6 +10,7 @@ For the full list of academic publications, see my [CV](https://www.overleaf.com
 Citation counts below are from the NASA Astrophysics Data System ([ADS](http://adsabs.harvard.edu/)) as of Jul, 25, 2017 to entries in [ADS](http://adsabs.harvard.edu/), [arxiv.org](https://arxiv.org/) are provided where available. [This link](https://ui.adsabs.harvard.edu/#search/q=orcid\%3A0000-0003-0777-4618&sort=citation_count\%20desc\%2C\%20bibcode\%20desc) executes an author search of ADS.
 
 Some statistics: (Total citations : 258), (H-Index : 9)
+You can find more publication metrics [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya/metrics).
 
 
 Refereed Publications 
