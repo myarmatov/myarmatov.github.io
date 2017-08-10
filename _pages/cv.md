@@ -29,7 +29,7 @@ Teaching experience & Employment History
 * Grader: 
    * University of Michigan, PHYSICS 525, Advance Cosmology, September 2016 - December 2016
 
-* GSI: \hfill \textsl{September 2012 - Present}}\\ 
+* GSI: 
    * University of Michigan, Physics 241, Elementary Laboratory II, Laboratory Instructor 
    * University of Michigan, Physics 136, Life Sciences Lab I, Laboratory Instructor 
    * University of Michigan, Physics 236, Life Sciences Lab II, Laboratory Instructor 
