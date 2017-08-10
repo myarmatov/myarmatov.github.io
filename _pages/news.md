@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "On Median"
-permalink: /on-media/
+title: 
+permalink: /news/
 author_profile: true
 ---
 
