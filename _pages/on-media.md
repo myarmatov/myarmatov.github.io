@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "On Median"
+title: 
 permalink: /on-media/
 author_profile: true
 ---
