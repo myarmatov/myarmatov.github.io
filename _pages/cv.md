@@ -36,6 +36,23 @@ Teaching experience & Employment History
   
 
   
-Service and leadership
+Services and Leadership
 ======
-* 
+* Executive Member of Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)), 2016-present
+    * Promoted data science interest and education on campus
+    * Recruited and mentored over 50 active members
+    * Leading high-impact projects and leads a group of advanced team members on public data science challenge
+    * Responsible for the production of well-validated and reproducible science, technology, and consulting products of legacy quality.
+
+* Member of Dark Energy Survey (DES) outreach working group, 2017-present
+
+* Active member of DES, DESI, LoCuSS, XXL Consortium  
+
+* Cluster Seminar Organizer, University of Michigan, 2015-2017
+          
+* ELI/SLC Co-mentor, University of Michigan, Winter 2015 & Winter 2016 
+          
+* Member of Local Organization Committee for DES (Dark Energy Survey) Collaboration Meeting, University of Michigan, 2015
+
+* Referee for Astroparticle Physics Journal
+
