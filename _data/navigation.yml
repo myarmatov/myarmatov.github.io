@@ -14,3 +14,6 @@ main:
 
   - title: "On Media"
     url: /on-media/
+    
+  - title: "Data Science"
+    url: /data-science/
