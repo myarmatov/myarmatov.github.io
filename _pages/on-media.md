@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "On Median"
+permalink: /on-media/
 author_profile: true
 redirect_from:
-  - /resume
+  - /media
 ---
 
 {% include base_path %}
