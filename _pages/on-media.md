@@ -7,50 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Select Press Coverage
 ======
-* B.S. in Mechanical Engineering, Sharif University of Technology, 2004 - 2009
-* B.S. in Physics, Sharif University of Technology, 2004 - 2009
-* M.S. in Physics, University of Michigan - Ann Arbor, 2012 - 2014
-* Ph.D  in Physics, University of Michigan - Ann Arbor, 2018 (expected)
-* Ph.D  in Computational Discovery and Engineering, University of Michigan - Ann Arbor, 2018 (expected)
+* Flint Water Crisis Project
+    * **Engineering for Change**, [Data Scientists Pinpoint Sources of Lead Contamination to Solve the Flint Water Crisis](https://www.engineeringforchange.org/data-scientists-pinpointing-sources-lead-contamination-solve-flint-water-crisis/), February 2017
+    * **The New York Times**, [University of Michigan, Google Create Flint Water Crisis App](http://www.nytimes.com/aponline/2016/12/11/us/ap-us-flint-water-app.html?ref=aponline), December 2016
+    * **University of Michigan, News Service**, [Google-funded Flint water app helps residents find lead risk, resources](http://ns.umich.edu/new/multimedia/videos/24394-google-funded-flint-water-app-helps-residents-find-lead-risk-resources), December 2016}
+    * **MLive**, [Number of homes that need new water pipes in Flint has doubled, study says](http://www.mlive.com/news/flint/index.ssf/2016/12/study_says_nearly_30000_flint.html), December 2016
+    * **The Michigan Daily**, [Professors and students develop app to detect contaminated lead pipes in Flint](https://www.michigandaily.com/section/news/professors-and-students-team-detect-lead-pipes-flint), October 2016
+
+* Dark Energy Survey:
+    * **DES Website**, [Interview](http://www.darkenergysurvey.org/scientistoftheweek/arya-farahi/), September 2015
 
 
-Teaching experience & Employment History 
+Multimedia Products
 ======
-* Guest Lecturer:
-   * Big Data Summer Institute (BDSI) at University of Michigan, Summer 2017 
-   * Comprehensive Studies Program (CSB) 100 at University of Michigan, Summer 2017
-
-* Research Assistance at University of Michigan, September 2012 - Present 
-
-* Grader: 
-   * University of Michigan, PHYSICS 525, Advance Cosmology, September 2016 - December 2016
-
-* GSI: 
-   * University of Michigan, Physics 241, Elementary Laboratory II, Laboratory Instructor 
-   * University of Michigan, Physics 136, Life Sciences Lab I, Laboratory Instructor 
-   * University of Michigan, Physics 236, Life Sciences Lab II, Laboratory Instructor 
-  
-
-  
-Services and Leadership
-======
-* Executive Member of Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)), 2016-present
-    * Promoted data science interest and education on campus
-    * Recruited and mentored over 50 active members
-    * Leading high-impact projects and leads a group of advanced team members on public data science challenge
-    * Responsible for the production of well-validated and reproducible science, technology, and consulting products of legacy quality.
-
-* Member of Dark Energy Survey (DES) outreach working group, 2017-present
-
-* Active member of DES, DESI, LoCuSS, XXL Consortium  
-
-* Cluster Seminar Organizer, University of Michigan, 2015-2017
-          
-* ELI/SLC Co-mentor, University of Michigan, Winter 2015 & Winter 2016 
-          
-* Member of Local Organization Committee for DES (Dark Energy Survey) Collaboration Meeting, University of Michigan, 2015
-
-* Referee for Astroparticle Physics Journal
+A Data Science Approach to Understanding Residential Water Contamination in Flint, [YouTube Link](https://www.youtube.com/watch?v=0g66ImaV8Ag)
+[![MDST Flint](https://img.youtube.com/vi/0g66ImaV8Ag/0.jpg)](https://www.youtube.com/watch?v=0g66ImaV8Ag "MDST Flint")
 
