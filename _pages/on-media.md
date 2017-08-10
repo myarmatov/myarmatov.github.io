@@ -3,8 +3,6 @@ layout: archive
 title: "On Median"
 permalink: /on-media/
 author_profile: true
-redirect_from:
-  - /media
 ---
 
 {% include base_path %}
