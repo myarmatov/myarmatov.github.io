@@ -20,7 +20,7 @@ My general research interest beyound what I am doing for my Ph.D is broad, and i
 
 **Cosmology**
 
-– Physics of Clusters of Galaxies, 
+- Physics of Clusters of Galaxies, 
 - Galaxy Formation/Evolution, 
 - Cosmological Probes,
 - Formation and Evolution of Large-Scale Structures.
@@ -28,13 +28,13 @@ My general research interest beyound what I am doing for my Ph.D is broad, and i
 
 **Beyound Linear Physics**
 
-– Chaos and Turbulence,
+- Chaos and Turbulence,
 - Non-perturbative methods.
 
 
 **Random Fields**
 
-– Topological Properteis of Random Fields.
+- Topological Properteis of Random Fields.
 
 
 **Data Science and AI**
