@@ -2,15 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "On Media"
-    url: /on-media/
-        
+            
   - title: "News"
     url: /news/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "On Media"
+    url: /on-media/
