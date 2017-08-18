@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://afarahi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   : "Aryaf.png"
+teaser                   :  
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Arya Farahi"
-  avatar           : "profile.png"
+  avatar           : "Aryaf.png"
   bio              : "PhD student at University of Michigan - Ann Arbor, Michigan Data Science Team (MDST) Project Manager, Member of DES, DESI, LoCuSS, and XXL collaboration, Physicist and Astronomer, Passionate about data science"
   location         : "Ann Arbor, MI, US"
   employer         :
