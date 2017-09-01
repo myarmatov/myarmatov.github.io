@@ -46,6 +46,9 @@ Refereed Publications
 
 Conferences & Workshops 
 ------
+1. Cell, Allie et al. (including **Farahi, Arya**); *Understanding Blight Ticket Compliance in Detroit*, Chicago Data Science for Social Goode, 2017, [link](TBD).
+
+1. Gardner, Josh; Koutra, Danai; Mroueh, Jawad; Pang, Victor; **Farahi, Arya**; Krassenstein, Sam; Webb, Jared; *Driving with Data: Modeling and Forecasting Vehicle Fleet Maintenance in Detroit*, Bloomberg Data for Good Exchange, 2017, [link](TBD).
 
 1. Chojnacki, Alex; Dai, Chengyu; **Farahi, Arya**; Shi, Guangsha; Webb, Jared; Zhang, Daniel T.; Abernethy, Jacob; Schwartz, Eric; *A Data Science Approach to Understanding Residential Water Contamination in Flint*, Applied Data Science track paper at KDD, 2017, [link](http://www.kdd.org/kdd2017/papers/view/a-data-science-approach-to-understanding-residential-water-contamination-in).   
 
