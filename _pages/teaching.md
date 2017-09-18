@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-E&M 505 - Fall 2017
+Physics-505 - Fall 2017
 ======
 
 Useful resources:
