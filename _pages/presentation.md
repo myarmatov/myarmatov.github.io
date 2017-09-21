@@ -10,4 +10,4 @@ author_profile: true
 Presentations - Fall - 2017
 ======
 
-COSMIC MERGERS - FROM MASSIVE BLACK HOLES TO MASSIVE CLUSTERS, 21st - 22nd September 2017, [Presentation](files/presentations/mass-function-shape.pdf)
+COSMIC MERGERS - FROM MASSIVE BLACK HOLES TO MASSIVE CLUSTERS, 21st - 22nd September 2017, [Presentation](http://afarahi.github.io/files/presentations/mass-function-shape.pdf)
