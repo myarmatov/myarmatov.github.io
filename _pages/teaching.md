@@ -18,7 +18,7 @@ Example notes:
 
 * Friday, September, 15, 2017 [WILL BE UPLOADED SOON]
 
-* Friday, September, 22, 2017 [WILL BE UPLOADED SOON]
+* Friday, September, 22, 2017 [Notes](https://afarahi.github.io/files/teaching/phys505/Phys505-F17-Note-2.pdf)
 
 * Friday, September, 29, 2017 [WILL BE UPLOADED SOON]
 
