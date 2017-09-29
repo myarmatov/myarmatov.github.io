@@ -21,6 +21,7 @@ Education
 Teaching experience & Employment History 
 ======
 * Guest Lecturer:
+   * Exploratory Data Analysis for Health (LHS 610) at University of Michigan, Fall 2017 
    * Big Data Summer Institute (BDSI) at University of Michigan, Summer 2017 
    * Comprehensive Studies Program (CSB) 100 at University of Michigan, Summer 2017
 
@@ -30,6 +31,7 @@ Teaching experience & Employment History
    * University of Michigan, PHYSICS 525, Advance Cosmology, September 2016 - December 2016
 
 * GSI: 
+   * University of Michigan, Physics 505, Advance Electricity and Magnetism, GSI
    * University of Michigan, Physics 241, Elementary Laboratory II, Laboratory Instructor 
    * University of Michigan, Physics 136, Life Sciences Lab I, Laboratory Instructor 
    * University of Michigan, Physics 236, Life Sciences Lab II, Laboratory Instructor 
