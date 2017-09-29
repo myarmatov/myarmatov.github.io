@@ -17,4 +17,4 @@ COSMIC MERGERS - FROM MASSIVE BLACK HOLES TO MASSIVE CLUSTERS, 21st - 22nd Septe
 Poster Presentations
 ======
 
-Midwest Big Data Hub All-Hands Meeting, Omaha, Nebraska, Fall, 2017, [Presentation](http://afarahi.github.io/files/presentations/mdst-poster.pdf)
+Midwest Big Data Hub All-Hands Meeting, Omaha, Nebraska, Fall, 2017, [Poster](http://afarahi.github.io/files/presentations/MDST%20-%20Poster.pdf)
