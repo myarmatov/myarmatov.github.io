@@ -10,6 +10,10 @@ author_profile: true
 Physics-505 - Fall 2017
 ======
 
+Importnat Notes:
+
+* For plotting, use a computer software. If you need help.
+
 Useful resources:
 
 * [Coordinate Transformation Cheat sheet](https://www.ece.nus.edu.sg/stfpage/elehht/Teaching/EE5308R/Lecture%20Notes/Supplementary%20Notes/Coordinate_Transformation_Formula_Sheet.pdf) 
