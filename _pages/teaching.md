@@ -12,6 +12,8 @@ Physics-505 - Fall 2017
 
 Importnat Notes:
 
+* Show your work.
+
 * For plotting, use a computer software. If you need help.
 
 Useful resources:
