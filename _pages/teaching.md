@@ -32,9 +32,9 @@ Some notes + example of Dirac Delta Function [1](http://hitoshi.berkeley.edu/221
 
 [Orthogonal functions Summary Note](http://www.maths.tcd.ie/~tristan/MA3431/Orthogonal_functions_notes.pdf)
 
-* Friday, October, 6, 2017 [WILL BE UPLOADED SOON]
+* Friday, October, 6, 2017 [NO NOTES]
 
-* Friday, October, 13, 2017 [WILL BE UPLOADED SOON]
+* Friday, October, 13, 2017 [Notes](https://afarahi.github.io/files/teaching/phys505/Phys505-F17-Note-5.pdf)
 
 * Friday, October, 20, 2017 [WILL BE UPLOADED SOON]
 
