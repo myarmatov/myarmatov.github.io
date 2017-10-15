@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My full [CV](https://www.overleaf.com/read/fvgwjdkxshwq).
+
 Education
 ======
 * B.S. in Mechanical Engineering, Sharif University of Technology, 2004 - 2009
@@ -30,7 +32,7 @@ Teaching experience & Employment History
 * Grader: 
    * University of Michigan, PHYSICS 525, Advance Cosmology, September 2016 - December 2016
 
-* GSI: 
+* Graduate Student Instructor (GSI): 
    * University of Michigan, Physics 505, Advance Electricity and Magnetism, GSI
    * University of Michigan, Physics 241, Elementary Laboratory II, Laboratory Instructor 
    * University of Michigan, Physics 136, Life Sciences Lab I, Laboratory Instructor 
@@ -41,14 +43,14 @@ Teaching experience & Employment History
 Services and Leadership
 ======
 * Executive Member of Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)), 2016-present
-    * Promoted data science interest and education on campus
-    * Recruited and mentored over 50 active members
-    * Leading high-impact projects and leads a group of advanced team members on public data science challenge
+    * Recruited and mentored over 100 active members
+		* Promote data science interest and education on campus
+		* Teaching practical data science skills to students at University of Michigan
+		* Lead high-impact public-service projects 
+    * Leads a group of advanced team members on public data science challenge 
     * Responsible for the production of well-validated and reproducible science, technology, and consulting products of legacy quality.
 
 * Member of Dark Energy Survey (DES) outreach working group, 2017-present
-
-* Active member of DES, DESI, LoCuSS, XXL Consortium  
 
 * Cluster Seminar Organizer, University of Michigan, 2015-2017
           
@@ -56,5 +58,15 @@ Services and Leadership
           
 * Member of Local Organization Committee for DES (Dark Energy Survey) Collaboration Meeting, University of Michigan, 2015
 
+* [AI Grant](https://aigrant.org/) reviewer 
+
 * Referee for Astroparticle Physics Journal
+
+
+Science Project Memberships
+======
+* [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/),
+* [Dark Energy Spectroscopic Instrument (DESI)](http://desi.lbl.gov/),
+* [Local Cluster Substructure Survey (LoCuSS)](http://www.sr.bham.ac.uk/locuss/),
+* [XXL](http://irfu.cea.fr/xxl) Consortium
 
