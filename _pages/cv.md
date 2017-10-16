@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full [CV](https://www.overleaf.com/read/fvgwjdkxshwq).
+For the full list of academic publications, see my [CV](https://www.overleaf.com/read/fvgwjdkxshwq) or check out my [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya), [Spires](http://inspirehep.net/author/profile/A.Farahi.1), [Google Scholar](https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en) profile. 
 
 Education
 ======
