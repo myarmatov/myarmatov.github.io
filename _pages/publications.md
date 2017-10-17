@@ -33,6 +33,9 @@ Submitted
 1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
 
 
+1. Stroud, J.C.; **Farahi, A.**; *Machine Learning Challenges as a Platform for Data Science Education and Public Service*; NIPS 2017 - Machine Learning Challenges as a Research Tool Workshop, submitted. 
+
+
 Refereed Publications 
 ------
 
