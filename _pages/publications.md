@@ -12,17 +12,29 @@ Citation counts below are from the NASA Astrophysics Data System ([ADS](http://a
 Some statistics: (Total citations : 309), (H-Index : 9)
 You can find more publication metrics [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya/metrics).
 
-
-Refereed Publications 
+In prepration
 ------
 
+1. Mulroy S.; **Farahi A.**; Evrard A.E.; Smith G.; et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [ADS](TBD)
+
+1. **Farahi A.**; Mulroy S.; Evrard A.E.; Smith G.; et al.; *LoCuSS: The first measurment of gas and stellar property covariance*, TBD, in preperation. [ADS](TBD)
+
+1. Abernethy, J; Chojnacki, A; **Farahi, A.**; Schwartz, E.; Webb, J.; *On the Search for Lead Pipes in Flint*, TBD, in preperation. [ADS](TBD)
+
 1. **Farahi, A.** et al.; *Massive Halo Property Scaling and Covariance in BAHAMAS+MACSIS Simulations*, TBD, in preperation. [ADS](TBD)
+
+
+Submitted
+------
 
 1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, submitted. [ADS](TBD)
 
 
 1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
 
+
+Refereed Publications 
+------
 
 1. Pierre, M. et al. (including **Farahi, Arya**); *The XXL survey: First results and future*, Astronomische Nachrichten, 2017. [ADS](http://adsabs.harvard.edu/abs/2017AN....338..334P)
 
