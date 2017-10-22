@@ -23,6 +23,8 @@ In prepration
 
 1. **Farahi, A.** et al.; *Massive Halo Property Scaling and Covariance in BAHAMAS+MACSIS Simulations*, TBD, in preperation. [ADS](TBD)
 
+1. Mayers, J.; Romer, K; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards new method to estimate black hole mass from short exposure X-ray observations*, TBD, in preperation. [ADS](TBD)
+
 
 Submitted
 ------
