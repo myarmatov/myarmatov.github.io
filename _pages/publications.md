@@ -70,15 +70,15 @@ Refereed Publications
 
 Conferences & Workshops 
 ------
-1. Cell, Allie et al. (including **Farahi, Arya**); *Understanding Blight Ticket Compliance in Detroit*, Chicago Data Science for Social Goode, 2017, [link](https://dssg.uchicago.edu/wp-content/uploads/2017/09/cell.pdf).
+1. Cell, Allie et al. (including **Farahi, Arya**); *Understanding Blight Ticket Compliance in Detroit*, Chicago Data Science for Social Goode, 2017, [link](https://dssg.uchicago.edu/wp-content/uploads/2017/09/cell.pdf). [paper submission]
 
-1. Gardner, Josh; Koutra, Danai; Mroueh, Jawad; Pang, Victor; **Farahi, Arya**; Krassenstein, Sam; Webb, Jared; *Driving with Data: Modeling and Forecasting Vehicle Fleet Maintenance in Detroit*, Chicago Data Science for Social Goode, 2017, [link](https://dssg.uchicago.edu/wp-content/uploads/2017/09/webb-min.pdf).
+1. Gardner, Josh; Koutra, Danai; Mroueh, Jawad; Pang, Victor; **Farahi, Arya**; Krassenstein, Sam; Webb, Jared; *Driving with Data: Modeling and Forecasting Vehicle Fleet Maintenance in Detroit*, Chicago Data Science for Social Goode, 2017, [link](https://dssg.uchicago.edu/wp-content/uploads/2017/09/webb-min.pdf). [paper submission]
 
-1. **Farahi, Arya**; Mulroy, Sarah; Evrard, August E.; Smith, Graham; *Closed Box Nature of Galaxy Clusters through Multi-wavelength Analysis*, American Astronomical Society, HEAD meeting #16, 2017, [link](http://adsabs.harvard.edu/abs/2017HEAD...1610512F).
+1. **Farahi, Arya**; Mulroy, Sarah; Evrard, August E.; Smith, Graham; *Closed Box Nature of Galaxy Clusters through Multi-wavelength Analysis*, American Astronomical Society, HEAD meeting #16, 2017, [link](http://adsabs.harvard.edu/abs/2017HEAD...1610512F). [abstract submission]
 
-1. Chojnacki, Alex; Dai, Chengyu; **Farahi, Arya**; Shi, Guangsha; Webb, Jared; Zhang, Daniel T.; Abernethy, Jacob; Schwartz, Eric; *A Data Science Approach to Understanding Residential Water Contamination in Flint*, Applied Data Science track paper at KDD, 2017, [link](http://www.kdd.org/kdd2017/papers/view/a-data-science-approach-to-understanding-residential-water-contamination-in).   
+1. Chojnacki, Alex; Dai, Chengyu; **Farahi, Arya**; Shi, Guangsha; Webb, Jared; Zhang, Daniel T.; Abernethy, Jacob; Schwartz, Eric; *A Data Science Approach to Understanding Residential Water Contamination in Flint*, Applied Data Science track paper at KDD, 2017, [link](http://www.kdd.org/kdd2017/papers/view/a-data-science-approach-to-understanding-residential-water-contamination-in). [paper submission]  
 
-1. Abernethy, Jacob et al. (including **Farahi, Arya**); *Flint Water Crisis: Data-Driven Risk Assessment Via Residential Water Testing*, Bloomberg Data for Good Exchange, 2016, [link](https://arxiv.org/abs/1610.00580). 
+1. Abernethy, Jacob et al. (including **Farahi, Arya**); *Flint Water Crisis: Data-Driven Risk Assessment Via Residential Water Testing*, Bloomberg Data for Good Exchange, 2016, [link](https://arxiv.org/abs/1610.00580). [paper submission]
 
 
 
