@@ -25,6 +25,7 @@ In prepration
 
 1. Mayers, J.; Romer, K; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards new method to estimate black hole mass from short exposure X-ray observations*, TBD, in preperation. [ADS](TBD)
 
+1. Schwartz, E.M.; Chojnacki, A.; **Farahi, A.**; Webb, J.A.; Abernethy J.D.; *On the Search for Lead Pipes in Flint: \\Identifying service quality failures in public utilities*, TBD, in preperation. [ADS](TBD)
 
 Submitted
 ------
