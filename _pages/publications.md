@@ -12,20 +12,18 @@ Citation counts below are from the NASA Astrophysics Data System ([ADS](http://a
 Some statistics: (Total citations : 309), (H-Index : 9)
 You can find more publication metrics [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya/metrics).
 
-In prepration
+In prepration (papers with substantial contribution)
 ------
-
-1. Mulroy S.; **Farahi A.**; Evrard A.E.; Smith G.; et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [ADS](TBD)
 
 1. **Farahi A.**; Mulroy S.; Evrard A.E.; Smith G.; et al.; *LoCuSS: The first measurment of gas and stellar property covariance*, TBD, in preperation. [ADS](TBD)
 
-1. Abernethy, J; Chojnacki, A; **Farahi, A.**; Schwartz, E.; Webb, J.; *On the Search for Lead Pipes in Flint*, TBD, in preperation. [ADS](TBD)
-
 1. **Farahi, A.** et al.; *Massive Halo Property Scaling and Covariance in BAHAMAS+MACSIS Simulations*, TBD, in preperation. [ADS](TBD)
+
+1. Mulroy S.; **Farahi A.**; Evrard A.E.; Smith G.; et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [ADS](TBD)
 
 1. Mayers, J.; Romer, K; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards new method to estimate black hole mass from short exposure X-ray observations*, TBD, in preperation. [ADS](TBD)
 
-1. Schwartz, E.M.; Chojnacki, A.; **Farahi, A.**; Webb, J.A.; Abernethy J.D.; *On the Search for Lead Pipes in Flint: \\Identifying service quality failures in public utilities*, TBD, in preperation. [ADS](TBD)
+1. Schwartz, E.M.; Chojnacki, A.; **Farahi, A.**; Webb, J.A.; Abernethy J.D.; *On the Search for Lead Pipes in Flint: Identifying service quality failures in public utilities*, TBD, in preperation. [ADS](TBD)
 
 Submitted
 ------
