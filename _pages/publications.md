@@ -34,10 +34,7 @@ Submitted
 1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
 
 
-1. Stroud, J.C.; **Farahi, A.**; *Machine Learning Challenges as a Platform for Data Science Education and Public Service*; NIPS 2017 - Machine Learning Challenges as a Research Tool Workshop, submitted. 
-
-
-Refereed Publications 
+Refereed Journal Publications 
 ------
 
 1. Pierre, M. et al. (including **Farahi, Arya**); *The XXL survey: First results and future*, Astronomische Nachrichten, 2017. [ADS](http://adsabs.harvard.edu/abs/2017AN....338..334P)
@@ -68,8 +65,11 @@ Refereed Publications
 
 
 
-Conferences & Workshops 
+Conference & Workshop Contributions
 ------
+
+1. Stroud, Jonathan; **Farahi, Arya**; *Machine Learning Challenges as a Platform for Data Science Education and Public Service*, Machine Learning Challenges as a Research Tool, NIPS Workshops, 2017, [link](https://docs.google.com/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4OjIxYjg4YzQzYWVlNzBkNjc). [extended abstract submission]
+
 1. Cell, Allie et al. (including **Farahi, Arya**); *Understanding Blight Ticket Compliance in Detroit*, Chicago Data Science for Social Goode, 2017, [link](https://dssg.uchicago.edu/wp-content/uploads/2017/09/cell.pdf). [paper submission]
 
 1. Gardner, Josh; Koutra, Danai; Mroueh, Jawad; Pang, Victor; **Farahi, Arya**; Krassenstein, Sam; Webb, Jared; *Driving with Data: Modeling and Forecasting Vehicle Fleet Maintenance in Detroit*, Chicago Data Science for Social Goode, 2017, [link](https://dssg.uchicago.edu/wp-content/uploads/2017/09/webb-min.pdf). [paper submission]
