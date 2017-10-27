@@ -14,7 +14,7 @@ Importnat Notes:
 
 * Show your work.
 
-* For plotting, use a computer software. If you need help.
+* For plotting, use a computer software.
 
 Useful resources:
 
@@ -38,7 +38,7 @@ Some notes + example of Dirac Delta Function [1](http://hitoshi.berkeley.edu/221
 
 * Friday, October, 20, 2017 [Review By Prof. Jim Liu]
 
-* Friday, October, 27, 2017 [Multipole Expansion Cheetsheet](https://afarahi.github.io/files/teaching/phys505/Phys505-F17-Note-6.png)
+* Friday, October, 27, 2017 [Multipole Expansion Cheat sheet](https://afarahi.github.io/files/teaching/phys505/Phys505-F17-Note-6.png)
 
 Some good [notes](http://www.physics.ohio-state.edu/~yuri/7401.php)
 
