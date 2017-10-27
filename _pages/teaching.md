@@ -36,9 +36,10 @@ Some notes + example of Dirac Delta Function [1](http://hitoshi.berkeley.edu/221
 
 * Friday, October, 13, 2017 [Notes](https://afarahi.github.io/files/teaching/phys505/Phys505-F17-Note-5.pdf)
 
-* Friday, October, 20, 2017 [WILL BE UPLOADED SOON]
+* Friday, October, 20, 2017 [Review By Prof. Jim Liu]
 
-* Friday, October, 27, 2017 [WILL BE UPLOADED SOON]
+* Friday, October, 27, 2017 [Multipole Expansion Cheetsheet](https://afarahi.github.io/files/teaching/phys505/Phys505-F17-Note-6.png)
+Some good [notes](http://www.physics.ohio-state.edu/~yuri/7401.php)
 
 * Friday, November, 3, 2017 [WILL BE UPLOADED SOON]
 
