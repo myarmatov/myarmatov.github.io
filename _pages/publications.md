@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For the full list of academic publications, see my [CV](https://www.overleaf.com/read/fvgwjdkxshwq) or check out my [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya), [Spires](http://inspirehep.net/author/profile/A.Farahi.1), [Google Scholar](https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en) profile. 
+For the full list of academic publications, see my [CV](https://www.overleaf.com/read/gxckmhrxwngb) and [publication](https://www.overleaf.com/read/xhshtnqmczdf) list or check out my [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya), [Spires](http://inspirehep.net/author/profile/A.Farahi.1), [Google Scholar](https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en) profile. 
 
 Citation counts below are from the NASA Astrophysics Data System ([ADS](http://adsabs.harvard.edu/)) as of Oct, 16, 2017 to entries in [ADS](http://adsabs.harvard.edu/), [arxiv.org](https://arxiv.org/) are provided where available. [This link](https://ui.adsabs.harvard.edu/#search/q=orcid\%3A0000-0003-0777-4618&sort=citation_count\%20desc\%2C\%20bibcode\%20desc) executes an author search of ADS.
 
@@ -17,8 +17,6 @@ In prepration (papers with substantial contribution)
 
 1. **Farahi A.**; Mulroy S.; Evrard A.E.; Smith G.; et al.; *LoCuSS: The first measurment of gas and stellar property covariance*, TBD, in preperation. [ADS](TBD)
 
-1. **Farahi, A.** et al.; *Massive Halo Property Scaling and Covariance in BAHAMAS+MACSIS Simulations*, TBD, in preperation. [ADS](TBD)
-
 1. Mulroy S.; **Farahi A.**; Evrard A.E.; Smith G.; et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [ADS](TBD)
 
 1. Mayers, J.; Romer, K; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards new method to estimate black hole mass from short exposure X-ray observations*, TBD, in preperation. [ADS](TBD)
@@ -28,7 +26,10 @@ In prepration (papers with substantial contribution)
 Submitted
 ------
 
-1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, submitted. [ADS](TBD)
+1. **Farahi, A.** et al.; *Localized massive halo properties in BAHAMAS and MACSIS simulations: scalings, log-normality, and covariance*, Monthly Notices of the Royal Astronomical Society, submitted. [ADS](TBD)
+
+
+1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, Accepted. [ADS](TBD)
 
 
 1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
