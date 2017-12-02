@@ -15,21 +15,21 @@ You can find more publication metrics [here](https://ui.adsabs.harvard.edu/#sear
 In prepration (papers with substantial contribution)
 ------
 
-1. **Farahi A.**; Mulroy S.; Evrard A.E.; Smith G.; et al.; *LoCuSS: The first measurment of gas and stellar property covariance*, TBD, in preperation. [ADS](TBD)
+1. **Farahi A.**; Mulroy S.; Evrard A.E.; Smith G.; et al.; *LoCuSS: The first measurment of gas and stellar property covariance*, TBD, in preperation. [TBD](TBD)
 
-1. Mulroy S.; **Farahi A.**; Evrard A.E.; Smith G.; et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [ADS](TBD)
+1. Mulroy S.; **Farahi A.**; Evrard A.E.; Smith G.; et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [TBD](TBD)
 
-1. Mayers, J.; Romer, K; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards new method to estimate black hole mass from short exposure X-ray observations*, TBD, in preperation. [ADS](TBD)
+1. Mayers, J.; Romer, K; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards new method to estimate black hole mass from short exposure X-ray observations*, TBD, in preperation. [TBD](TBD)
 
-1. Schwartz, E.M.; Chojnacki, A.; **Farahi, A.**; Webb, J.A.; Abernethy J.D.; *On the Search for Lead Pipes in Flint: Identifying service quality failures in public utilities*, TBD, in preperation. [ADS](TBD)
+1. Schwartz, E.M.; Chojnacki, A.; **Farahi, A.**; Webb, J.A.; Abernethy J.D.; *On the Search for Lead Pipes in Flint: Identifying service quality failures in public utilities*, TBD, in preperation. [TBD](TBD)
 
 Submitted
 ------
 
-1. **Farahi, A.** et al.; *Localized massive halo properties in BAHAMAS and MACSIS simulations: scalings, log-normality, and covariance*, Monthly Notices of the Royal Astronomical Society, submitted. [ADS](TBD)
+1. **Farahi, A.** et al.; *Localized massive halo properties in BAHAMAS and MACSIS simulations: scalings, log-normality, and covariance*, Monthly Notices of the Royal Astronomical Society, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171104922F)
 
 
-1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, Accepted. [ADS](TBD)
+1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, Accepted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171107066F)
 
 
 1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
