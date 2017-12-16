@@ -42,13 +42,3 @@ Some notes + example of Dirac Delta Function [1](http://hitoshi.berkeley.edu/221
 
 Some good [notes](http://www.physics.ohio-state.edu/~yuri/7401.php)
 
-* Friday, November, 3, 2017 [WILL BE UPLOADED SOON]
-
-* Friday, November, 10, 2017 [WILL BE UPLOADED SOON]
-
-* Friday, November, 17, 2017 [WILL BE UPLOADED SOON]
-
-* Friday, December, 1, 2017 [WILL BE UPLOADED SOON]
-
-* Friday, December, 8, 2017 [WILL BE UPLOADED SOON]
-
