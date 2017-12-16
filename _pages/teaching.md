@@ -42,4 +42,4 @@ Some notes + example of Dirac Delta Function [1](http://hitoshi.berkeley.edu/221
 
 Some good [notes](http://www.physics.ohio-state.edu/~yuri/7401.php)
 
-Practice Exame [1](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf)[2](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf)[3](TBD)
+Practice Exame [1](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf),[2](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf),[3](TBD)
