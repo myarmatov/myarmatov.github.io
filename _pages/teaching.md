@@ -42,4 +42,18 @@ Some notes + example of Dirac Delta Function [1](http://hitoshi.berkeley.edu/221
 
 Some good [notes](http://www.physics.ohio-state.edu/~yuri/7401.php)
 
-Practice Exame [1](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf),[2](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf),[3](TBD)
+Final Practice Exame [1](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf),[2](https://afarahi.github.io/files/teaching/phys505/finprac_v2.pdf),[3](https://afarahi.github.io/files/teaching/phys505/Final-EM-505.png)
+
+Final Practice Exam from other Universities:
+
+Rutgers - [Exam](http://www.physics.rutgers.edu/~haule/503/Exam2_2012/exam2_2012.pdf)
+
+Stony Brook University - Exam [1](http://tonic.physics.sunysb.edu/~dteaney/F16_Phy505/lectures/exam1_2013.pdf), [2](http://tonic.physics.sunysb.edu/~dteaney/F16_Phy505/lectures/exam1_2014.pdf), [3](http://tonic.physics.sunysb.edu/~dteaney/F16_Phy505/lectures/exam1_2015.pdf), [4](http://tonic.physics.sunysb.edu/~dteaney/F16_Phy505/lectures/exam1_2016.pdf)
+
+Duke - [Take Home Exam](https://webhome.phy.duke.edu/~palmer/Phy318/S10/ass/oldtests/final-S08.pdf)
+
+
+
+
+
+Midterm Practice Exam for 506 [1](https://afarahi.github.io/files/teaching/phys505/Midterm-EM-506.png)
