@@ -26,13 +26,21 @@ In prepration (papers with substantial contribution)
 Submitted
 ------
 
+1. DES Collaboration (including **Farahi, Arya**); *The Dark Energy Survey Data Release 1*, The Astrophysical Journal, submitted.
+
+
 1. **Farahi, A.** et al.; *Localized massive halo properties in BAHAMAS and MACSIS simulations: scalings, log-normality, and covariance*, Monthly Notices of the Royal Astronomical Society, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171104922F)
 
 
+1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
+
+
+
+Accepted
+------
+
 1. **Farahi, A.** et al.; *The XXL Survey. XXIII. The Mass Scale of XXL Clusters from Ensemble Spectroscopy*, Astronomy and Astrophysics, Accepted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171107066F)
 
-
-1. Valotti, A.; Pierre, M.; **Farahi, A.**; Evrard, A.; Faccioli, L.; Sauvageot, J.-L.; Clerc, N.; Pacaud, F.; *The cosmological analysis of X-ray cluster surveys: IV. Testing ASpiX with template-based cosmological simulations*, Astronomy and Astrophysics, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171001569V)
 
 
 Refereed Journal Publications 
