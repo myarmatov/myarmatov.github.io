@@ -26,7 +26,7 @@ In prepration (papers with substantial contribution)
 Submitted
 ------
 
-1. DES Collaboration (including **Farahi, Arya**); *The Dark Energy Survey Data Release 1*, The Astrophysical Journal, submitted.
+1. DES Collaboration (including **Farahi, Arya**); *The Dark Energy Survey Data Release 1*, The Astrophysical Journal, [link](https://www.darkenergysurvey.org/wp-content/uploads/2018/01/DR1Release.pdf).
 
 
 1. **Farahi, A.** et al.; *Localized massive halo properties in BAHAMAS and MACSIS simulations: scalings, log-normality, and covariance*, Monthly Notices of the Royal Astronomical Society, submitted. [ADS](http://adsabs.harvard.edu/abs/2017arXiv171104922F)
