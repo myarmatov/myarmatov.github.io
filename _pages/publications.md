@@ -24,7 +24,9 @@ In prepration (papers with substantial contribution)
 Submitted
 ------
 
-1. Abernethy J.D.; Chojnacki, A.; **Farahi, A.**; Schwartz, E.M.; Webb, J.A.; *ActiveRemediation: The Search for Lead Pipes in Flint, Michigan*, KDD, submitted. 
+1. **Farahi, A.**; Stroud, J.; *The Michigan Data Science Team: A Data Science Education Program with Significant Social Impact*, DSW-2018, submitted.
+
+1. Abernethy J.D.; Chojnacki, A.; **Farahi, A.**; Schwartz, E.M.; Webb, J.A.; *ActiveRemediation: The Search for Lead Pipes in Flint, Michigan*, KDD-2018, submitted. 
 
 1. DES Collaboration (including **Farahi, Arya**); *The Dark Energy Survey Data Release 1*, The Astrophysical Journal, [link](https://www.darkenergysurvey.org/wp-content/uploads/2018/01/DR1Release.pdf).
 
