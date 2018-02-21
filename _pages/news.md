@@ -9,7 +9,7 @@ author_profile: true
 
 2018
 ======
-* January
+* February 
    * We submitted our Flint and Detroit Work to KDD-2018 and the MDST model to DSW-2018.
    * I am offered McWilliams posdoctoral fellowship at Carnegie Mellon University.
    * I am offered DIRAC posdoctoral fellowship at the University of Washington.
