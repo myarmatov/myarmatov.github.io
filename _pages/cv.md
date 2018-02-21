@@ -17,7 +17,7 @@ Education
 * B.S. in Physics, Sharif University of Technology, 2004 - 2009
 * M.S. in Physics, University of Michigan - Ann Arbor, 2012 - 2014
 * Ph.D  in Physics, University of Michigan - Ann Arbor, 2018 (expected)
-* Ph.D  in Computational Discovery and Engineering, University of Michigan - Ann Arbor, 2018 (expected)
+* Ph.D  in Scientific Computing, University of Michigan - Ann Arbor, 2018 (expected)
 
 
 Teaching experience & Employment History 
