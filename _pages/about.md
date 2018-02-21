@@ -8,14 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in the [physics department](https://lsa.umich.edu/physics/) at [University of Michigan](https://www.umich.edu/) - Ann Arbor. My advisor is [August Evrard](http://www-personal.umich.edu/~evrard/). My main area of research is Clusters of Galaxies and Large-Scale Structures, with emphasis on multiwavelength modeling.  On this site, you can find some information about my research and extra curricular activities.
+I am an astronomer who is studying the physics behind our Universe. I have developed theoretical models, performed large-scale simulations, and utilized advanced and novel statistical models to discover the fundamental physics of our Universe. In the past 5 years, I have led a number of projects to support the science goal of many international projects and collaborations. I am also a dedicated educator who is interested in implementing novel educational models to engage with students. With my colleagues, I have built the first data science education platform at the [University of Michigan](https://www.umich.edu/) which teaches practical data science skills to students and at the same time makes a positive social impact on the local communities. Finally, I am a passionate data scientist who advocates for data science for social good. 
 
-I am on the leadership board of The Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)), a student group on campus which brings together students, post-docs, researcher, and faculty of various disciplines through collaboration structured around finding patterns in data, and the membership is open to all students around the campus. We usually partner with other local communities or research labs to help them with their data analysis and make sense of their data. We are looking for talented and dedicated students who are interested in taking part in data science challenges. 
+I am currently pursuing a dual Ph.D. degree in Physics and Scientific Computing at the [University of Michigan](https://www.umich.edu/) - Ann Arbor. My advisor is Prof. [August Evrard](http://www-personal.umich.edu/~evrard/). My main area of research is Clusters of Galaxies and Large-Scale Structures, with emphasis on multiwavelength modeling.  On this site, you can find some information about my research and extra curricular activities.
+
+I am also on the leadership board of The Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)), a student organization on campus which brings together students, post-docs, researcher, and faculty of various disciplines through collaboration structured around finding patterns in data. The membership is open to everyone who is part of the UoM community. We usually partner with other local communities, like local governments and non-profits, or research labs to help them with their data analysis and make sense of their data. We are looking for talented and dedicated students who are interested in taking part in data science challenges. 
 
 
 General Research Interest
 ------
-My general research interest goes beyound what I am doing for my Ph.D is broad, and is not limited to Astronomy. Here is a simple list of my interest beyound my thesis:
+My general research interest goes beyound what I am doing for my Ph.D. is broad, and is not limited to Astronomy. Here is a non-exhaustive list of my research interest:
+
+**Theoretical Physics**
+
+- String Theory and Holographic Duality, 
+- Gravitational Collapse, 
+- General Theory of Relativity.
 
 
 **Cosmology**
@@ -41,12 +49,19 @@ My general research interest goes beyound what I am doing for my Ph.D is broad, 
 
 - Applied Machine Learning, 
 - Deep Learning, 
-- Hierarchical Bayesian Modeling
+- Hierarchical Bayesian Modeling.
+
+
+**Data Science for Social Good**
+
+- Service-Learning,
+- Data Driven Public Policy and Decision Making,
+- Application of Data Science and Machine Learning to Social Problems.
 
 
 **Miscellaneous** 
 
-- Network Theory and its application
-- Education and Public Outreach
-- Data Science for Social Good
-- Public Policy
+- Network Theory and its application,
+- Education and Public Outreach.
+
+
