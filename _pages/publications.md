@@ -12,6 +12,9 @@ Citation counts below are from the NASA Astrophysics Data System ([ADS](http://a
 Some statistics: (Total citations : 340), (H-Index : 9)
 You can find more publication metrics [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya/metrics).
 
+**The data and codes which are not publicly releaased, the codes and data for these project might be available upon request.**
+
+
 In prepration (papers with substantial contribution)
 ------
 
