@@ -3,6 +3,8 @@ layout: archive
 title: 
 permalink: /news/
 author_profile: true
+customjs:
+ - https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
 ---
 
 {% include base_path %}
@@ -23,3 +25,5 @@ Multimedia Products
 A Data Science Approach to Understanding Residential Water Contamination in Flint, [YouTube Link](https://www.youtube.com/watch?v=0g66ImaV8Ag)
 [![MDST Flint](https://img.youtube.com/vi/0g66ImaV8Ag/0.jpg)](https://www.youtube.com/watch?v=0g66ImaV8Ag "MDST Flint")
 
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
