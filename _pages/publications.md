@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Publications-test"
+permalink: /publications-test/
 author_profile: true
 ---
 
