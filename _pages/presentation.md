@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+I would love to give talk about 
+
+* Challenges in Cluster Cosmology 
+
+* Application of Novel Inference and Machine Learning to Astronomy
+
+* Trasforming the Data Science Eduacation, A Data Science Education Program with Social Impact
+
+* Application of Data Science to Problems with Social Impact
+
+
+
 Presentations - Fall - 2017
 ======
 
