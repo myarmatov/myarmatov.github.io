@@ -17,7 +17,7 @@ I am also on the leadership board of The Michigan Data Science Team ([MDST](http
 
 General Research Interest
 ------
-My general research interest goes beyound what I am doing for my Ph.D. is broad, and is not limited to Astronomy. Here is a non-exhaustive list of my research interest:
+My general research interest goes beyound what I am doing for my Ph.D., and is not limited to Astronomy. Here is a non-exhaustive list of my research interest:
 
 **Theoretical Physics**
 
