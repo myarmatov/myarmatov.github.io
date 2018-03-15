@@ -22,14 +22,15 @@ In prepration (papers with substantial contribution)
 
 1. Mulroy S.; **Farahi A.**; Evrard A.E.; Smith G.; et al.; *LoCuSS: Galaxy Cluster Scaling Relations*, TBD, in preperation. [TBD](TBD)
 
-1. Mayers, J.; Romer, K; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards new method to estimate black hole mass from short exposure X-ray observations*, TBD, in preperation. [TBD](TBD)
 
 Submitted
 ------
 
-1. **Farahi, A.**; Stroud, J.; *The Michigan Data Science Team: A Data Science Education Program with Significant Social Impact*, DSW-2018, submitted.
+1. Mayers, J.; Romer, K.; **Farahi, A.** et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards a new method to estimate black hole mass from short exposure X-ray observations*, MNRAS, submitted. [TBD](TBD)
 
-1. Abernethy J.D.; Chojnacki, A.; **Farahi, A.**; Schwartz, E.M.; Webb, J.A.; *ActiveRemediation: The Search for Lead Pipes in Flint, Michigan*, KDD-2018, submitted. 
+1. **Farahi, A.**; Stroud, J.; *The Michigan Data Science Team: A Data Science Education Program with Significant Social Impact*, DSW-2018, submitted. [TBD](TBD)
+
+1. Abernethy J.D.; Chojnacki, A.; **Farahi, A.**; Schwartz, E.M.; Webb, J.A.; *ActiveRemediation: The Search for Lead Pipes in Flint, Michigan*, KDD-2018, submitted. [TBD](TBD)
 
 1. DES Collaboration (including **Farahi, Arya**); *The Dark Energy Survey Data Release 1*, The Astrophysical Journal, [link](https://www.darkenergysurvey.org/wp-content/uploads/2018/01/DR1Release.pdf).
 
