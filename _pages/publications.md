@@ -12,7 +12,7 @@ Citation counts below are from the NASA Astrophysics Data System ([ADS](http://a
 Some statistics: (Total citations : 340), (H-Index : 9)
 You can find more publication metrics [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya/metrics).
 
-**The data and codes which are not publicly releaased, the codes and data for these project might be available upon request.**
+**The data and codes which are not publicly releaased might be available upon request.**
 
 
 In prepration (papers with substantial contribution)
@@ -27,7 +27,7 @@ In prepration (papers with substantial contribution)
 Submitted
 ------
 
-1. Mayers, J., Romer, K., **Farahi, A.**, et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards a new method to estimate black hole mass from short exposure X-ray observations*, MNRAS, submitted. [TBD](TBD)
+1. Mayers, J., Romer, K., **Farahi, A.**, et al.; *Correlations between X-ray properties and Black Hole Mass in AGN: towards a new method to estimate black hole mass from short exposure X-ray observations*, MNRAS, submitted. [ADS](http://adsabs.harvard.edu/abs/2018arXiv180306891M)
 
 1. **Farahi, A.**, Stroud, J.; *The Michigan Data Science Team: A Data Science Education Program with Significant Social Impact*, DSW-2018, submitted. [TBD](TBD)
 
