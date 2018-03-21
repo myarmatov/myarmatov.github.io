@@ -54,25 +54,29 @@ Refereed Journal Publications
 1. **Farahi, Arya**; Evrard, August E.; Rozo, Eduardo; Rykoff, Eli S.; Wechsler, Risa H.; *Galaxy cluster mass estimation from stacked spectroscopic analysis*, Monthly Notices of the Royal Astronomical Society, 2016. [ADS](http://adsabs.harvard.edu/abs/2016MNRAS.460.3900F)  
 
 
-1. Pierre, M. et al. (including **Farahi, Arya**); *The XXL Survey. I. Scientific motivations - XMM-Newton observing plan - Follow-up observations and simulation programme*, Astronomy and Astrophysics, 2016. [ADS](http://adsabs.harvard.edu/abs/2016A&A...592A...1P)  
+1. **A. Farahi**, A. E. Evrard, E. Rozo, E. S. Rykoff, R. H.Wechsler, *Galaxy cluster mass estimation
+from stacked spectroscopic analysis*, Monthly Notices of the Royal Astronomical Society 460,
+3900 (2016). [ADS](http://adsabs.harvard.edu/abs/2016A&A...592A...1P)  
 
 
-1. Arean, D.; **Farahi, A.**; Pando Zayas, L. A.; Salazar Landea, I.; Scardicchio, A.; *Holographic p-wave superconductor with disorder*, Journal of High Energy Physics, 2015. [ADS](http://adsabs.harvard.edu/abs/2015JHEP...07..046A) 
+1. D. Arean, **A. Farahi**, L. A. Pando Zayas, I. Salazar Landea, A. Scardicchio, *Holographic
+p-wave superconductor with disorder*, Journal of High Energy Physics 2015, 46 (2015). [ADS](http://adsabs.harvard.edu/abs/2015JHEP...07..046A) 
 
 
-1. Evrard, August E.; Arnault, Pablo; Huterer, Dragan; **Farahi, Arya**; *A model for multiproperty galaxy cluster statistics*, Monthly Notices of the Royal Astronomical Society, 2014. [ADS](http://adsabs.harvard.edu/abs/2014MNRAS.441.3562E) 
+1. A. E. Evrard, P. Arnault, D. Huterer, **A. Farahi**, *A model for multiproperty galaxy cluster statistics*, Monthly Notices of the Royal Astronomical Society 441, 3562 (2014). [ADS](http://adsabs.harvard.edu/abs/2014MNRAS.441.3562E) 
 
 
-1. **Farahi, Arya**; Pando Zayas, Leopoldo A.; *Gravitational collapse, chaos in CFT correlators and the information paradox*, Physics Letters B, 2014. [ADS](http://adsabs.harvard.edu/abs/2014PhLB..734...31F) 
+1. **A. Farahi**, L. A. Pando Zayas, *Gravitational collapse, chaos in CFT correlators and the information paradox*, Physics Letters B 734, 31 (2014). [ADS](http://adsabs.harvard.edu/abs/2014PhLB..734...31F) 
 
 
-1. Arean, D.; **Farahi, A.**; Pando Zayas, L. A.; Landea, I. Salazar; Scardicchio, A.; *Holographic superconductor with disorder*, Physical Review D, 2014. [ADS](http://adsabs.harvard.edu/abs/2014PhRvD..89j6003A)
+1. D. Arean, **A. Farahi**, L. A. Pando Zayas, I. S. Landea, A. Scardicchio, *Holographic superconductor with disorder*, Physical Review D 89, 106003 (2014). [ADS](http://adsabs.harvard.edu/abs/2014PhRvD..89j6003A)
 
 
-1. **Farahi, Arya**; Benson, Andrew J.; *Excursion set theory for correlated random walks*, Monthly Notices of the Royal Astronomical Society, 2013. [ADS](http://adsabs.harvard.edu/abs/2013MNRAS.433.3428F)  
+1. **A. Farahi**; A. J. Benson, *Excursion set theory for correlated random walks*, Monthly Notices of the Royal Astronomical Society 433, 3428 (2013). [ADS](http://adsabs.harvard.edu/abs/2013MNRAS.433.3428F)  
 
 
-1. Benson, Andrew J.; **Farahi, Arya**; Cole, Shaun; Moustakas, Leonidas A.; Jenkins, Adrian; Lovell, Mark; Kennedy, Rachel; Helly, John; Frenk, Carlos; *Dark matter halo merger histories beyond cold dark matter - I. Methods and application to warm dark matter*, Monthly Notices of the Royal Astronomical Society, 2013. [ADS](http://adsabs.harvard.edu/abs/2013MNRAS.428.1774B) 
+1. A. J. Benson, **A. Farahi**, S. Cole, L. A. Moustakas, A. Jenkins, M. Lovell, R. Kennedy, J.
+Helly, C. Frenk, *Dark matter halo merger histories beyond cold dark matter - I. Methods and application to warm dark matter*, Monthly Notices of the Royal Astronomical Society 428, 1774 (2013). [ADS](http://adsabs.harvard.edu/abs/2013MNRAS.428.1774B) 
 
 
 
