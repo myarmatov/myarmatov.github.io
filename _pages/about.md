@@ -20,19 +20,19 @@ General Research Interest
 My general research interest goes beyond what I am doing for my Ph.D. and is not limited to Astronomy. Here is a non-exhaustive list of my research interest:
 
 
-**Theoretical Physics**
-
-- String Theory and Holographic Duality, 
-- Gravitational Collapse, 
-- General Theory of Relativity.
-
-
 **Cosmology**
 
 - Physics of Clusters of Galaxies, 
 - Galaxy Formation/Evolution, 
 - Cosmological Probes,
 - Formation and Evolution of Large-Scale Structures.
+
+
+**Theoretical Physics**
+
+- String Theory and Holographic Duality, 
+- Gravitational Collapse, 
+- General Theory of Relativity.
 
 
 **Beyound Linear Physics**
