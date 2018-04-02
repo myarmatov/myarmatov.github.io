@@ -35,7 +35,7 @@ My general research interest goes beyond what I am doing for my Ph.D. and is not
 - General Theory of Relativity.
 
 
-**Beyound Linear Physics**
+**Beyond Linear Physics**
 
 - Chaos and Turbulence,
 - Non-perturbative methods.
