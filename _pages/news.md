@@ -9,10 +9,16 @@ author_profile: true
 
 2018
 ======
+
+* April
+   * I defend my thesis on April, 17th. 
+   * I present the DES Cluster Cosmology results at the [APS April Meeting](http://meetings.aps.org/Meeting/APR18/Session/J15). 
+   * A team of MDST members awarded the 2nd place prize at the [DataHack@Yale](http://datahack.yale.edu/) competition. [According to the organizers](https://twitter.com/YINSedge/status/983092871661326337), our MDST team had the most difficult challenge, and gave best presentation. The challenge, which our team chose to work on, was sponsored by the town of Fairfield, CT.
 * February 
    * We submitted our Flint and Detroit Work to KDD-2018 and the MDST model to DSW-2018.
    * I am offered McWilliams posdoctoral fellowship at Carnegie Mellon University.
    * I am offered DIRAC posdoctoral fellowship at the University of Washington.
+   * [Talked](http://midwestbigdatahub.org/student-webinar-series/) about MDST at the student webinar series hosted by the Midwest Big Data Hub. The goal of this seminar series is that student-led Data Science organizations to share and discuss their experience, structure and goals, ultimately helping to develop a Midwestern Data Science Student Groups community.
 * January
    * The Dark Energy Survey first Data Release: The first major public release of the Dark Energy Survey is officially out. This [link](https://des.ncsa.illinois.edu/releases/dr1) is a portal with public acccess to reduced images and wide-field coadd source catalogs from the first three years of full science operations, consisting in over 38,000 single exposure images, close to 62,000 coadd images covering 10,338 tiles over roughly 5,000 square degrees within the DES footprint, resulting in nearly 400M distinct cataloged objects. Use the buttons below to access DR1 documentation and products. See DR1 Release paper [Here](https://www.darkenergysurvey.org/wp-content/uploads/2018/01/DR1Release.pdf) for more detail. This work is supported in part by the U.S. Department of Energy Office of Science.
    
