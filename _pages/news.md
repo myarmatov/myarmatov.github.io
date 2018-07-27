@@ -16,6 +16,9 @@ author_profile: true
 * August
    * I will be at the JSM, Vancouver,  to present our statistical approach in modeling galaxy clusters.
    * I will be at the KDD, London, to present our [partnership with the city of Flint](https://www.youtube.com/watch?v=YbIn_axYu9E). 
+   
+      *ActiveRemediation: The Search for Lead Pipes in Flint, Michigan, [YouTube Link](https://www.youtube.com/watch?v=YbIn_axYu9E)
+[![MDST Flint](https://img.youtube.com/vi/YbIn_axYu9E/0.jpg)](https://www.youtube.com/watch?v=YbIn_axYu9E "MDST Flint")
 
 * April
    * I defend my thesis on April, 17th. 
@@ -33,5 +36,9 @@ author_profile: true
 
 Multimedia Products
 ======
+
+ActiveRemediation: The Search for Lead Pipes in Flint, Michigan, [YouTube Link](https://www.youtube.com/watch?v=YbIn_axYu9E)
+[![MDST Flint](https://img.youtube.com/vi/YbIn_axYu9E/0.jpg)](https://www.youtube.com/watch?v=YbIn_axYu9E "MDST Flint")
+
 A Data Science Approach to Understanding Residential Water Contamination in Flint, [YouTube Link](https://www.youtube.com/watch?v=0g66ImaV8Ag)
 [![MDST Flint](https://img.youtube.com/vi/0g66ImaV8Ag/0.jpg)](https://www.youtube.com/watch?v=0g66ImaV8Ag "MDST Flint")
