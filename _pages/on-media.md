@@ -34,6 +34,10 @@ Select Press Coverage
 
 Multimedia Products
 ======
+
+ActiveRemediation: The Search for Lead Pipes in Flint, Michigan, [YouTube Link](https://www.youtube.com/watch?v=YbIn_axYu9E)
+[![MDST Flint](https://img.youtube.com/vi/YbIn_axYu9E/0.jpg)](https://www.youtube.com/watch?v=YbIn_axYu9E "MDST Flint")
+
 A Data Science Approach to Understanding Residential Water Contamination in Flint, [YouTube Link](https://www.youtube.com/watch?v=0g66ImaV8Ag)
 [![MDST Flint](https://img.youtube.com/vi/0g66ImaV8Ag/0.jpg)](https://www.youtube.com/watch?v=0g66ImaV8Ag "MDST Flint")
 
