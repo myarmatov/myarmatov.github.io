@@ -10,6 +10,13 @@ author_profile: true
 2018
 ======
 
+* Spetember
+   * Join Carnegie Mellon University.
+
+* August
+   * I will be at the JSM, Vancouver,  to present our statistical approach in modeling galaxy clusters.
+   * I will be at the KDD, London, to present our [partnership with the city of Flint](https://www.youtube.com/watch?v=YbIn_axYu9E). 
+
 * April
    * I defend my thesis on April, 17th. 
    * I present the DES Cluster Cosmology results at the [APS April Meeting](http://meetings.aps.org/Meeting/APR18/Session/J15). 
