@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Arya Farahi"
   avatar           : "Aryaf.png"
-  bio              : "PhD student at University of Michigan - Ann Arbor, Michigan Data Science Team (MDST) Project Manager, Member of DES, DESI, LoCuSS, and XXL collaboration, Physicist and Astronomer, Passionate about data science"
-  location         : "Ann Arbor, MI, US"
-  employer         :
+  bio              : "McWilliams postdoctoral fellow at Carnegie Mellon University. Ph.D. in Physics and Scientific Computing from the University of Michigan - Ann Arbor. Former VP of projects at Michigan Data Science Team (MDST). Member of the Cosmostatistics Initiative (COINS), the Dark Energy Survey (DES), and five more collaborations. Educator, Statistician, Physicist, and Astronomer. Passionate about data science for social good."
+  location         : "Pittsburgh, PA"
+  employer         : "Carnegie Mellon University"
   googlescholar    : "https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en"
-  email            : "aryaf@umich.edu"
+  email            : "afarahi@andrew.cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
