@@ -11,7 +11,7 @@ author_profile: true
 ======
 
 * December 
-  * I will be at NIPS, Montréal, Canda for AI for Social Good workshop (a member of program committee)
+  * I will be at NIPS, Montréal, Canda for [AI for Social Good workshop](https://aiforsocialgood.github.io/2018/index.htm) (a member of program committee)
 
 * November
   * I co-chair the poster session at Midwest Big Data Hub (MBDH) [all hand on meeting](http://midwestbigdatahub.org/2018-all-hands-meeting/), Cleveland, OH
