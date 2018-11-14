@@ -10,8 +10,14 @@ author_profile: true
 2018
 ======
 
+* December 
+  * I will be at NIPS, Montréal, Canda for AI for Social Good workshop (a member of program committee)
+
+* November
+  * I co-chair the poster session at Midwest Big Data Hub (MBDH) [all hand on meeting](http://midwestbigdatahub.org/2018-all-hands-meeting/), Cleveland, OH
+  
 * Spetember
-   * Join Carnegie Mellon University.
+   * I join Carnegie Mellon University.
 
 * August
    * I will be at the JSM, Vancouver,  to present our statistical approach in modeling galaxy clusters.
