@@ -17,7 +17,7 @@ author_profile: true
   * I co-chair the poster session at Midwest Big Data Hub (MBDH) [all hand on meeting](http://midwestbigdatahub.org/2018-all-hands-meeting/), Cleveland, OH
   
 * Spetember
-   * I join Carnegie Mellon University.
+   * I join the McWilliams Center for Cosmology at Carnegie Mellon University.
 
 * August
    * I will be at the JSM, Vancouver,  to present our statistical approach in modeling galaxy clusters.
