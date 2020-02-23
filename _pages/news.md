@@ -7,6 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
+2020
+======
+
+* February 
+  * Delivering physics colloqium at Oakland university.
+  
+* January  
+  * Lunching a project collaboration with the city of Detorit.
+
+  
 2018
 ======
 
