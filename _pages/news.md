@@ -11,7 +11,7 @@ author_profile: true
 ======
 
 * February 
-  * Delivering physics colloqium at Oakland university.
+  * Delivering physics colloqium at Oakland University.
   
 * January  
   * Launching a project in collaboration with the city of Detorit.
