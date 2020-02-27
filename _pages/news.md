@@ -14,7 +14,7 @@ author_profile: true
   * Delivering physics colloqium at Oakland university.
   
 * January  
-  * Lunching a project collaboration with the city of Detorit.
+  * Launching a project in collaboration with the city of Detorit.
 
   
 2018
