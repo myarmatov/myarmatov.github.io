@@ -20,6 +20,9 @@ I was a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) finalist, r
 **Undergraduate/graduate students**: I am continually looking for dedicated students at the University of Michigan (*you*) who are interested in taking part in data science with social impact or astronomy projects. These projects involve a balance of theoretical, methodological, and data analysis work. Experience in theoretical physics, astronomy, statistics, or computer science is a plus but not a requirement. If you are looking for a project, feel free to email me.
 
 
+**World Economic Forum Report**: I contributed to [a report from the World Economic Forum](https://www.weforum.org/reports/digitizing-and-transforming-mobility-systems-lessons-from-the-detroit-region) featuring a data science project co-funded by MIDAS, U-M Transportation Research Institute (UMTRI), U-M College of Engineering and the Knight Foundation. The project is part of a larger Seamless Integrated Mobility effort that aims to transform mobility systems in Detroit, Ann Arbor and Windsor, MI. The project is one example of how data science can make a significant impact on policy making. 
+
+
 General Research Interest
 ------
 My general research interest goes beyond what I am doing for my Ph.D. and is not limited to Astronomy. Here is a non-exhaustive list of my research interest:
