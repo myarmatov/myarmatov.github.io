@@ -15,7 +15,8 @@ author_profile: true
   * Our paper on "[Driving with Data: Modeling and Forecasting Vehicle Fleet Maintenance in Detroit
 ](https://arxiv.org/abs/1710.06839)" for [DSAA-2020](http://dsaa2020.dsaa.co/). 
   
-* Presenitng againg halos at AAS meeting. 
+* June
+  * Presenitng againg halos at AAS meeting. 
   
 * February 
   * Delivering physics colloqium at Oakland University.
