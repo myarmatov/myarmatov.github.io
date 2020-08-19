@@ -10,6 +10,13 @@ author_profile: true
 2020
 ======
 
+* August
+  * Presenting the correlated properties of dark matter halos at Fermilab
+  * Our paper on "[Driving with Data: Modeling and Forecasting Vehicle Fleet Maintenance in Detroit
+](https://arxiv.org/abs/1710.06839)" for [DSAA-2020](http://dsaa2020.dsaa.co/). 
+  
+* Presenitng againg halos at AAS meeting. 
+  
 * February 
   * Delivering physics colloqium at Oakland University.
   
