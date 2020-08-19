@@ -94,12 +94,12 @@ Services
 * Referee for the Astrophysical Journal, Monthly Notices of the Royal Astronomical Society (journal), Entropy (journal), Astroparticle Physics Journal, AI for Social Good (NeurIPS workshop
 
 * Member of the following collaborations: 
-	* Michigan - Data Informed Cities for Everyone (M-DICE, co-founder and a member of the steering committee)
-        * Baryon Pasters (PB, chair of the optical and lensing working group) 
-        * The Cosmostatistics Initiative ([COIN](https://cosmostatistics-initiative.org/)) 
-        * [DEEP SKIES](https://deepskieslab.com/about/) -- Bringing Artificial Intelligence to Astrophysics 
-        * Dark Energy Science Collaboration ([DESC](\href{http://lsst-desc.org/))
-        * Dark Energy Survey ([DES](https://www.darkenergysurvey.org/))
-        * Local Cluster Substructure Survey ([LoCuSS](http://www.sr.bham.ac.uk/locuss/)),
-        * [XMM-XXL](http://irfu.cea.fr/xxl) Consortium.
+    * Michigan - Data Informed Cities for Everyone (M-DICE, co-founder and a member of the steering committee)
+    * Baryon Pasters (PB, chair of the optical and lensing working group)
+    * The Cosmostatistics Initiative ([COIN](https://cosmostatistics-initiative.org/))
+    * [DEEP SKIES](https://deepskieslab.com/about/) -- Bringing Artificial Intelligence to Astrophysics 
+    * Dark Energy Science Collaboration ([DESC](\href{http://lsst-desc.org/))
+    * Dark Energy Survey ([DES](https://www.darkenergysurvey.org/))
+    * Local Cluster Substructure Survey ([LoCuSS](http://www.sr.bham.ac.uk/locuss/))
+    * [XMM-XXL](http://irfu.cea.fr/xxl) Consortium.
 
