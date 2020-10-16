@@ -6,7 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----I am a [Data Science Fellow](https://midas.umich.edu/fellows/) with the
+---
+
+I am a [Data Science Fellow](https://midas.umich.edu/fellows/) with the
 Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)) at the University of Michigan. Before that, I was McWilliams postdoctoral research fellow at the McWilliams Center for Cosmology in [Carnegie Mellon University](https://www.cmu.edu/). I received my Ph.D. in Scientific Computing and Physics from the [University of Michigan](https://www.umich.edu/). My research utilizes techniques from diverse areas of study, including statistical learning theory, machine learning (ML), optimization, and data-mining, to solve real-world problems in urban decision-making and astronomy.  On this site, you can find some information about my research and extracurricular activities.
  
 [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/) and I have co-founded Michigan-Data Informed Cities for Everyone (M-DICE) collaboration that partners with cities and local governments to help them with designing and deploying data-driven solutions. I am also a co-Chair of Baryon Pasters collaboration that develops novel computational tools to facilitate modeling and analyzing large astronomical survey datasets.
