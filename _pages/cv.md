@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full list of academic publications, see my [CV](https://www.overleaf.com/read/gxckmhrxwngb) and [publication](https://www.overleaf.com/read/xhshtnqmczdf) list or check out my [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya), [inSPIREhep](http://inspirehep.net/author/profile/A.Farahi.1), [Google Scholar](https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en) profile. 
+For the full list of academic publications, see my [CV](https://www.overleaf.com/read/gxckmhrxwngb) or check out my [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Farahi%2C%20Arya), [inSPIREhep](http://inspirehep.net/author/profile/A.Farahi.1), [Google Scholar](https://scholar.google.com/citations?user=TFLWMfQAAAAJ&hl=en) profile. 
 
 Education
 ======
@@ -83,6 +83,8 @@ Services
 
 * External Reviewer for the NASA's Future Investigators in Earth and Space Science and Technology (FINESST) program, 2019-2020
 
+* Volunteer for [Statistics Without Boarder](https://swb.wildapricot.org/), 2019-2020
+
 * Co-chair of the poster session at the Midwest Big Data Hub All-Hands Meeting, 2018-2019
 
 * Member of Dark Energy Survey (DES) outreach working group, 2017-2019
@@ -95,7 +97,7 @@ Services
           
 * Member of Local Organization Committee for DES (Dark Energy Survey) Collaboration Meeting, University of Michigan, 2015
 
-* Referee for the Astrophysical Journal, Monthly Notices of the Royal Astronomical Society (journal), Entropy (journal), Astroparticle Physics Journal, AI for Social Good (NeurIPS workshop
+* Reviewer for **Conferences**: AAAI, **Workshops**: AI for Social Good (NeurIPS), Machine Learning and the Physical Sciences (NeurIPS), **Journals**: The Astrophysical Journal, Monthly Notices of the Royal Astronomical Society, Entropy, Astroparticle Physics Journal.
 
 * Member of the following collaborations: 
     * Michigan - Data Informed Cities for Everyone (M-DICE, co-founder and a member of the steering committee)
