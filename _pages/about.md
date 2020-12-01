@@ -20,6 +20,8 @@ I was a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) finalist, r
 **Undergraduate/graduate students**: I am continually looking for dedicated students at the University of Michigan (*you*) who are interested in taking part in data science with social impact or astronomy projects. These projects involve a balance of theoretical, methodological, and data analysis work. Experience in theoretical physics, astronomy, statistics, or computer science is a plus but not a requirement. If you are looking for a project, feel free to email me.
 
 
+**This cycle (2020-2021) I am on the academic job market! **
+
 General Research Interest
 ------
 My general research interest goes beyond what I am currently focused on. Here is a non-exhaustive list of my research interests:
