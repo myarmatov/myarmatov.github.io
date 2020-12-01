@@ -3,23 +3,23 @@ main:
   - title: "Publications"
     url: /publications/
             
-  - title: "News"
-    url: /news/
+  #- title: "News"
+  #  url: /news/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Outreach"
-    url: /outreach/
+  #- title: "Outreach"
+  #  url: /outreach/
 
   - title: "On Media"
     url: /on-media/
     
-  - title: "Data Science"
-    url: /data-science/
+  #- title: "Data Science"
+  #  url: /data-science/
     
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
     
-  - title: "Presentation"
-    url: /presentation/
+  #- title: "Presentation"
+  #  url: /presentation/
