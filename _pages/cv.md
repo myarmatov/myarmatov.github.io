@@ -24,7 +24,7 @@ Teaching experience
 ======
 * Instructor:
    * Yale University, Introduction to Scientific Computing & Data Science (with Daisuke Nagai), Fall 2020
-   	-- responsible for designing the material for the data science half of the course and teaching it.
+   	-- responsible for designing the material for the data science half of the course.
 
 * Guest Lecturer:
    * University of Michigan, Exploratory Data Analysis for Health (LHS 610), Fall 2017 
@@ -55,15 +55,19 @@ Leadership
 ======
 * Co-founder and a member of the steering committee of the Michigan - Data Informed Cities for Everyone (M-DICE), 2020 -- present
 
-The demand for improved cosmological simulations and computational tools has grown in the astronomy community, which is rooted in need for testing and validating survey-specific inference and data analysis pipelines. To fulfill these needs, the Baryon Pasting (BP) collaboration, an international team of >30 astronomers, statisticians, and computer scientists, is formed. BP designs novel computational tools, produces cosmological simulations, implements data analysis methods, and releases open-source software packages to unleash the full potential of data collected by large-scale astronomical surveys, and enhance the utility of astronomical data. BP has a number of on-going partnerships with the major observational surveys to produce survey-specific simulations.
+M-DICE develops data-driven solutions to emerging challenges in realizing smart cities.
+
+Our team has embarked on a partnership with the City of Detroit to provide AI-support solutions for several key mobility challenges in the city. The overall goals of our partnership are to provide a unified solution for managing and integrating disparate mobility data sources, and to use data to inform budget planning, resource allocation, and policy evaluation. We currently have three ongoing projects with four departments in Detroit. In the first project, the team that I lead is working on (i) automating the twice-annual evaluation of road conditions by using millions of images that the city collects and (ii) designing a recommendation system to guide decision-makers on which roads should be fixed during the next road-maintenance cycle. In the second project, another team is developing a mobility safety index through which we aim to understand the commuting patterns in downtown Detroit and evaluate policy proposals aimed at reducing the number of crashes. During the COVID-19 pandemic, the city initiated a new program that provides e-scooters and e-bikes to essential workers for commuting. In a recently launched project, we seek to use survey data to assess the effectiveness of this new program. The results will set recommendations to enhance safety and user experience and guide the next phase of this program.
+
+
 
 * Co-chair of Baryon Pasters collaboration, 2020 -- present
 
-M-DICE provides data-driven solutions to existing mobility problems for local governments.
+The demand for improved cosmological simulations and computational tools has grown in the astronomy community, which is rooted in need for testing and validating survey-specific inference and data analysis pipelines. To fulfill these needs, the Baryon Pasting (BP) collaboration, an international team of >30 astronomers, statisticians, and computer scientists, is formed. BP designs novel computational tools, produces cosmological simulations, implements data analysis methods, and releases open-source software packages to unleash the full potential of data collected by large-scale astronomical surveys, and enhance the utility of astronomical data. BP has a number of on-going partnerships with the major observational surveys to produce survey-specific simulations.
 
-In February of 2020, M-DICE embarked a partnership with the city of Detroit with the goal of providing a unified solution for managing and integrating disparate mobility data sources (e.g., traffic volume, census data, real-time bus data, street-view data), gaining insights into the mobility patterns in Detroit, and informing the budget planning and resource allocation. This project is partially funded by the city of Detroit to (i) designing a platform for integrating data sources, (ii) modeling street-view data, collected every six months, and evaluating the current condition of each road in an automated fashion, and (iii) designing and implementing a decision recommendation system to guide decision-makers which roads should be fixed in the next batch of the road maintenance cycle, which is currently done in a manual and ad-hoc fashion.
 
 * Member of Organization Committee for the [AI for Social Good](https://aiforsocialgood.github.io/2018/) Workshop at NeurIPS, 2018
+
 
 * Executive Member of Michigan Data Science Team ([MDST](http://midas.umich.edu/mdst/)), 2016-2018
     * Recruited and mentored over 100 active members
