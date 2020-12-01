@@ -20,7 +20,7 @@ I was a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) finalist, r
 **Undergraduate/graduate students**: I am continually looking for dedicated students at the University of Michigan (*you*) who are interested in taking part in data science with social impact or astronomy projects. These projects involve a balance of theoretical, methodological, and data analysis work. Experience in theoretical physics, astronomy, statistics, or computer science is a plus but not a requirement. If you are looking for a project, feel free to email me.
 
 
-<span style="color:blue"> I am currently applying for tenure-track faculty positions in Data Science and/or applied AI/ML. Please reach out to me if you are hiring! </span>
+<span style="color:blue"> **I am currently applying for tenure-track faculty positions in Data Science and/or applied AI/ML. Please reach out to me if you are hiring!** </span>
 
 General Research Interest
 ------
