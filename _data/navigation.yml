@@ -1,7 +1,23 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+
+  - title: "Research"
+    url: /research/
+    
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Honors and Awards"
+    url: /honorsandawards/
+    
+   - title: "Projects"
+    url: /projects/
+    
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Conferences and Publications"
+    url: /conferencesandpublications/
             
   #- title: "News"
   #  url: /news/
@@ -9,11 +25,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  #- title: "Outreach"
-  #  url: /outreach/
 
-  - title: "On Media"
-    url: /on-media/
+
+  #- title: "On Media"
+  #  url: /on-media/
     
   #- title: "Data Science"
   #  url: /data-science/
