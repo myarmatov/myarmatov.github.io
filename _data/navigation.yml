@@ -1,22 +1,40 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Research"
+    url: /research/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Honors and Awards"
+    url: /honorsandawards/
+    
+   - title: "Projects"
+    url: /projects/
+    
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Conferences and Publications"
+    url: /conferencesandpublications/
+            
+  #- title: "News"
+  #  url: /news/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+
+
+  #- title: "On Media"
+  #  url: /on-media/
+    
+  #- title: "Data Science"
+  #  url: /data-science/
+    
+  #- title: "Teaching"
+  #  url: /teaching/
+    
+  #- title: "Presentation"
+  #  url: /presentation/
