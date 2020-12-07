@@ -1,33 +1,27 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+
+  - title: "Research"
+    url: /research/
+   
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Honors and Awards"
+    url: /honorsandawards/
     
+  - title: "Projects"
+    url: /projects/
     
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Conferences and Publications"
+    url: /conferencesandpublications/
+  
   - title: "CV"
     url: /cv/
- 
 
-
-# main links links
-#main:
-  #- title: "Research"
-  # url: /research/
-    
-  #- title: "Teaching"
-  #  url: /teaching/
-
-  #- title: "Honors and Awards"
-  #  url: /honorsandawards/
-    
-   #- title: "Projects"
-    #url: /projects/
-    
- # - title: "Skills"
-  #  url: /skills/
-
-  #- title: "Conferences and Publications"
-  #  url: /conferencesandpublications/
 
   #- title: "CV"
   #  url: /cv/
