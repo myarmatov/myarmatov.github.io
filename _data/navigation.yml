@@ -18,12 +18,14 @@ main:
 
   - title: "Conferences and Publications"
     url: /conferencesandpublications/
-            
+
+  - title: "CV"
+    url: /cv/
+
   #- title: "News"
   #  url: /news/
     
-  - title: "CV"
-    url: /cv/
+
     
 
 
