@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-will be updated soon
-======
-
+[1 Page CV](http://myarmatov.github.io/files/CV_Muhammetmyrat_Yarmatov.pdf)
