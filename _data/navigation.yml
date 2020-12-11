@@ -1,20 +1,14 @@
 # main links links
 main:
 
-  - title: "Research"
-    url: /research/
-   
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Experience"
+    url: /experience/
 
-  - title: "Honors and Awards"
-    url: /honorsandawards/
+  - title: "Achievements"
+    url: /achievements/
     
   - title: "Projects"
     url: /projects/
-    
-  - title: "Skills"
-    url: /skills/
 
   - title: "Conferences and Publications"
     url: /conferencesandpublications/
