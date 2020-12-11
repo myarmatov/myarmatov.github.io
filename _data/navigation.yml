@@ -7,8 +7,8 @@ main:
   - title: "Achievements"
     url: /achievements/
     
-  - title: "Projects"
-    url: /projects/
+  - title: "Projects and Skills"
+    url: /projectsandskills/
 
   - title: "Conferences and Publications"
     url: /conferencesandpublications/
