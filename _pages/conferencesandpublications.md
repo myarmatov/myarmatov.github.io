@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 **1. [Adaptive Mobile Learning in the nearby wisdom app.](http://myarmatov.github.io/files/Adaptive Mobile Learning in the Nearby Wisdom App.pdf)**
 
 International Seminar on Intelligent Technology and Its Application (ISITIA 2018), Bali, Indonesia.
@@ -16,6 +18,7 @@ International Seminar on Intelligent Technology and Its Application (ISITIA 2018
 IEEE. [DOI: 10.1109/ISITIA.2018.8711368](https://ieeexplore.ieee.org/document/8711368)
 
 Authors: H. Hermawan, R. Werdani, J. Chu, A. Darmawati, **M. Yarmatov**.
+
 
 
 **2. [Acceptance of e-commerce in rural level.](http://myarmatov.github.io/files/Accaptance of e-commerce in Rural Level.pdf)**
