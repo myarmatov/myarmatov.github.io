@@ -24,13 +24,12 @@ redirect_from:
   *	Teaching concepts that students struggle with and organizing weekly problem-solving sessions
 
 
-* **Summer Research Intern. The Chinese University of Hong Kong, Hong Kong. 06/2019 - 08/2019**
+* **[Summer Research Intern](http://myarmatov.github.io/files/Employment Certificate.pdf). The Chinese University of Hong Kong, Hong Kong. 06/2019 - 08/2019**
   *	Department: Electronic Engineering
   *	Lab: Robotics, Perception, and AI (RPAI) lab
   *	Supervisor: Prof. Max Meng
   *	Research: Robotic perception, prediction, and decision making
   *	Project: Airport service robots that autonomously collect and distribute passenger trolleys
-  * Please click [here](http://myarmatov.github.io/files/Employment Certificate.pdf) to see the Employment Certificate
 
 
 * **Undergraduate Research Intern. UNIST, South Korea. 10/2019 - 02/2020**
