@@ -21,4 +21,5 @@ redirect_from:
 * **[48th International Physics Olympiad (Yogyakarta, Indonesia):](http://myarmatov.github.io/files/48th International Physics Olympiad (Yogyakarta, Indonesia) 2016.pdf)** National representative
 * **[18th Asian Physics Olympiad (Yakutsk, Russia):](http://myarmatov.github.io/files/18th Asian Physics Olympiad (Yakutsk, Russia) 2017.pdf)** National representative
 * **[Coursera Certificate, deeplearning.ai:](http://myarmatov.github.io/files/Coursera Certificate, Neural Networks and Deep Learning.pdf)** Successfully completed Neural Networks and Deep Learning course
-* **Hong Kong PhD Fellowship, Summer Workshop at CUHK:** Participation
+* **[Hong Kong PhD Fellowship, Summer Workshop at CUHK](http://myarmatov.github.io/files/Invitation to the Hong Kong PhD Fellowship Summer Workshow.pdf):** Participation
+
