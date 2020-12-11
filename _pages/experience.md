@@ -4,9 +4,9 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 redirect_from:
-  - /
+  - /resume
 ---
-
+{% include base_path %}
 
 Research Assistant | UNIST, South Korea | 10/2020 - Present
 ======
