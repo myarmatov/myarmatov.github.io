@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+**1. Adaptive Mobile Learning in the nearby wisdom app.**
 
+International Seminar on Intelligent Technology and Its Application (ISITIA 2018), Bali, Indonesia
+IEEE. DOI: 10.1109/ISITIA.2018.8711368
+Authors: H. Hermawan, R. Werdani, J. Chu, A. Darmawati, **M. Yarmatov**.
+  
