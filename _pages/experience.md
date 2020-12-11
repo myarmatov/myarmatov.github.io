@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-* **Research Assistant. UNIST, South Korea. 10/2020 - Present**
+* **Research Assistant  ||  UNIST, South Korea  ||  10/2020 - Present**
   *	Department: Computer Science and | Engineering
   *	Lab: AI, Robotics, and Transportation (ART) lab
   *	Supervisor: Prof. Tsz-Chiu Au
