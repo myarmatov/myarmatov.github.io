@@ -8,13 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-Research Assistant | UNIST, South Korea | 10/2020 - Present
-======
-*	Department: Computer Science and Engineering
-*	Lab: AI, Robotics, and Transportation (ART) lab
-*	Supervisor: Prof. Tsz-Chiu Au
-*	Research: Autonomous vehicles and traffic management
-*	Projects: Fault detection for autonomous vehicles. Detecting full states and hidden attributes of vehicles under partial occlusion.
+* **Research Assistant | UNIST, South Korea | 10/2020 - Present**
+  *	Department: Computer Science and Engineering
+  *	Lab: AI, Robotics, and Transportation (ART) lab
+  *	Supervisor: Prof. Tsz-Chiu Au
+  *	Research: Autonomous vehicles and traffic management
+  *	Projects: Fault detection for autonomous vehicles. Detecting full states and hidden attributes of vehicles under partial occlusion.
 
 
 Teaching Assistant | UNIST, South Korea | 09/2019 - Present
