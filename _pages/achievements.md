@@ -11,6 +11,8 @@ redirect_from:
 
 * **UNIST Global Dream Scholarship:** Free tuition fee + monthly stipend
 * **NAVER-UNIST Undergraduate Research Poster Award:** Finalist 
+  * Research Poster: eDoctor - Diagnoses diseases that have similar symptoms using Machine Learning.
+  * Research Poster: Smart Camera - Detects car accidents and immediately summon an ambulance to save lives.  
 * **Google Developers Group:** Speaker in the "Age of AI" sessions
 * **Certificate of Excellence from UNIST:** English Public Speaking 
 * **National Physics Olympiad 2017:** Absolute winner (Gold medal) 
