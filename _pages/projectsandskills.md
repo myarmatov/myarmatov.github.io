@@ -33,10 +33,10 @@ Finished projects
 Skills
 ======
 * **Programming Languages:**
-   Python | C++ | Java | MATLAB
+   Python, C++, Java, MATLAB
   
-* **Software:**
-  PyTorch | TensorFlow | Keras | OpenCV | spaCy | Raspberry Pi | etc.
+* **Frameworks:**
+  PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, spaCy, Raspberry Pi, OrCAD etc.
   
 * **Languages:**
    English (Fluent) | Turkish (Fluent) | Korean (Basic) | Russian (Basic) | Turkmen (Native)
