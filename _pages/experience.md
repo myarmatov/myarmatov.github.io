@@ -1,59 +1,44 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
-  - /resume
+  - /
 ---
 
-{% include base_path %}
 
-Education
+Research Assistant | UNIST, South Korea | 10/2020 - Present
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*	Department: Computer Science and Engineering
+*	Lab: AI, Robotics, and Transportation (ART) lab
+*	Supervisor: Prof. Tsz-Chiu Au
+*	Research: Autonomous vehicles and traffic management
+*	Projects: Fault detection for autonomous vehicles. Detecting full states and hidden attributes of vehicles under partial occlusion.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Teaching Assistant | UNIST, South Korea | 09/2019 - Present
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Course: Artificial Intelligence Programming 1 and 2
+*	Professor in AIP1: Prof. Young Je Moon
+*	Professor in AIP2: Prof. Jeong Hwan Jeon
+*	Assisting professor during the classes and grading exam papers
+*	Teaching concepts that students struggle with and organizing weekly problem-solving sessions
 
-Publications
+
+Summer Research Intern | The Chinese University of Hong Kong, Hong Kong | 06/2019 - 08/2019
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+*	Department: Electronic Engineering
+*	Lab: Robotics, Perception, and AI (RPAI) lab
+*	Supervisor: Prof. Max Meng
+*	Research: Robotic perception, prediction, and decision making
+*	Project: Airport service robots that autonomously collect and distribute passenger trolleys
+
+
+Undergraduate Research Intern | UNIST, South Korea | 10/2019 - 02/2020
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*	Department: Electrical and Computer Engineering
+*	Lab: Advanced Information Systems (AiS) lab
+*	Supervisor: Prof. Hyun Jong Yang
+*	Research: Learning-based intelligent systems. Deep reinforcement learning in robotics
+*	Projects: Autonomous drones that help people in rural areas, disaster scene, etc. (e.g. providing internet)
