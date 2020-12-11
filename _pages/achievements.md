@@ -4,8 +4,7 @@ title: "Achievements"
 permalink: /achievements/
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /resume
 ---
 
 {% include base_path %}
