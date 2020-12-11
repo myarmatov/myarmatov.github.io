@@ -19,7 +19,7 @@ Hi! I'm Muhammetmyrat Yarmatov, a last year undergraduate student at the Ulsan N
 
 Interests
 ======
-I am interested in understanding the fundamental concepts of <span style="color:darkcyan"> **Artificial Intelligence (AI)** </span> and applying that insight to build <span style="color:darkcyan"> **fully autonomous and intelligent systems** </span> (e.g., autonomous vehicles, smart manufacturing robots, service robots, etc.). For that purpose, I want to strengthen my knowledge and practical skills in integrating the following areas towards my goal.
+I am interested in understanding the fundamental concepts of <span style="color:darkcyan"> **Artificial Intelligence (AI)** </span> and applying that insight to build <span style="color:darkcyan"> **fully autonomous and intelligent systems** </span> (e.g., autonomous vehicles, smart manufacturing robots, service robots, etc.). For that purpose, I want to strengthen my knowledge and practical skills in integrating the following areas towards my interests.
 
 <span style="color:darkcyan"> **Computer Vision** </span>: Intelligent systems should be able to recognize and understand their environment from what they see. Therefore, computer vision tasks such as 3D perception, object detection and classification, and action recognition are neccessary.
 
