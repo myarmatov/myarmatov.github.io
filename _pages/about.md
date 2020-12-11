@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#<span style="color:darkcyan"> **I am currently applying to graduate schools in the field of AI, robotics, vision, and autonomous intelligent systems.** </span>
+<span style="color:darkcyan"> **I am currently applying to graduate schools in the field of AI, robotics, vision, and autonomous intelligent systems.** </span>
 
 About
 ======
