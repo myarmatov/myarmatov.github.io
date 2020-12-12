@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: ""
 excerpt: "About M. Yarmatov"
 author_profile: true
