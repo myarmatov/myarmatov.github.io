@@ -21,7 +21,7 @@ Skills
    English (Fluent), Turkish (Fluent), Korean (Basic), Russian (Basic), Turkmen (Native)
   
   
-Current projects
+Ongoing projects
 ======
 * **Fault detection for autonomous vehicles**
 * **Hand Pose Estimation**
