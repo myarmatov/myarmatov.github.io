@@ -13,13 +13,21 @@ redirect_from:
 Current projects
 ======
 * **Fault detection for autonomous vehicles**
-* **3D Hand Pose Estimation**
+* **Hand Pose Estimation**
 
 Finished projects
 ======
 
 * **Airport Service Robots:**
   * We built service robots that autonomously collect and distribute passenger trolleys in busy airports. I developed deep learning based computer vision algorithms that would enable robots to detect, classify, and track idle trolleys using state-of-the-art object detection architectures such as RCNN, Faster-RCNN, and YOLOv3. We collected a huge amount of data not only in the airport but also in various different places such as car parks.
+* **Object Recognition/Classification using BOW, and Deep Learning with CNN:** 
+  * I implemented several state-of-the-art methods of computer vision for object recognition and classification problem using 20 Objects and CIFAR10 datasets.
+  
+    The first one was a Bag-of-visual-words model. For the feature extraction part, I used OpenCV's ORB method which is a fusion of FAST key-point detector and BRIEF descriptor with many modications. Then for learning a visual dictionary, I used the K-Means clustering algorithm. To represent images by frequencies of visual words and to nd the nearest
+codeword for images, I used the k-Nearest Neighbors algorithm and applied level-0 and level-1 extension of histograms. Then I trained an SVM model with Intersection Kernel by using the descriptor we have created and target labels.
+
+    The second one was a Deep Learning with CNN method. First, I created a class using PyTorch with Convolutional Neural Network layers (CNN), Fully Connected layers (FC), and an application of the Forward propagation. After loading the dataset and converting it to Tensors, I trained my model by applying forward/backward propagation with the CrossEntropyLoss loss function and Adam optimizer to minimize the error.
+
 * **Graduate Admissions Prediction:** 
   * I developed a model that estimates the students' chance of getting admitted to US universities based on their academic background. I used Machine Learning algorithms such as Linear Regression, SVM, and Random Forest for the prediction. The results were not so good because the dataset (from "The Grad Cafe") I used has so many outliers. After doing some data pre-processing, the best accuracy was achieved with SVM.
 * **Math Word Problem Solver:**
