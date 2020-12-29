@@ -9,7 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-
+Skills
+======
+* **Programming Languages:**
+   Python, C++, Java, MATLAB
+  
+* **Frameworks:**
+  PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, spaCy, Raspberry Pi, OrCAD etc.
+  
+* **Languages:**
+   English (Fluent), Turkish (Fluent), Korean (Basic), Russian (Basic), Turkmen (Native)
+  
+  
 Current projects
 ======
 * **Fault detection for autonomous vehicles**
@@ -38,15 +49,5 @@ codeword for images, I used the k-Nearest Neighbors algorithm and applied level-
   * I conducted research on video processing and feature extraction methods to make surveillance cameras smart enough to detect car accidents and immediately summon an ambulance to save lives.
   
   
-Skills
-======
-* **Programming Languages:**
-   Python, C++, Java, MATLAB
-  
-* **Frameworks:**
-  PyTorch, TensorFlow, Keras, OpenCV, Scikit-Learn, spaCy, Raspberry Pi, OrCAD etc.
-  
-* **Languages:**
-   English (Fluent), Turkish (Fluent), Korean (Basic), Russian (Basic), Turkmen (Native)
-  
+
   
