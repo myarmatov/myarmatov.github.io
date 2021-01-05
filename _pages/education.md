@@ -19,7 +19,14 @@ redirect_from:
   *	**GPA:** 3.69 (92.9%)
   
   
-About UNIST. It is ranked 176th in the World University Rankings, 17th in the Young University Rankings, and 23rd in Asia University Rankings of the Times Higher Education. UNIST is a warm and welcoming post-secondary institution located in the heart of South Korea's largest industrial city, Ulsan where world-renowned automotive, shipbuilding, petrochemical, and secondary cells industries are clustered.
+  
+  
+  
+  
+  
+**About UNIST from the [Times Higher Education](https://www.timeshighereducation.com/world-university-rankings/ulsan-national-institute-science-and-technology-unist) website.** 
+
+It is ranked 176th in the World University Rankings, 17th in the Young University Rankings, and 23rd in Asia University Rankings of the Times Higher Education. UNIST is a warm and welcoming post-secondary institution located in the heart of South Korea's largest industrial city, Ulsan where world-renowned automotive, shipbuilding, petrochemical, and secondary cells industries are clustered.
 
 Since its opening in 2009, UNIST has grown to become a world-class university, with a rapidly growing reputation for its research and impact on a wide range of fields. Leading scholars from all around the world have been invited to deliver outstanding scientific results and education. UNIST's research facilities, along with its world-class laboratory and state-of-the-art research equipment became an envy of many scientists around the world.
 
@@ -36,11 +43,11 @@ This status change of UNIST signifies a new beginning, in essence, rebirth of UN
 
 UNIST continues to strive to make an impact with its leading-edge research, promoting scientific collaboration with other countries as a driving force for excellence.
 
-Research Excellence
+**Research Excellence**
 UNIST now stands at the center of global research with its cutting edge research equipment. We create the best research outcomes based on optimal research environment. UNIST continues to invest in state-of-the-art research facilities and to enhance working and social space for ambitious young researchers. UNIST has hosted 3 IBS on-campus research groups, led by world-renowned scientists with funding of over KRW 200 billion. Moreover, in the field of secondary batteries, UNIST has been ranked in the top 3 in the world along with MIT and Stanford University.
 
-Academic Excellence
+**Academic Excellence**
 UNIST offers a breadth of highly regarded degree programs that allow students the freedom to explore their intellectual and personal passions. UNIST is the only university in South Korea where 100% of lectures are conducted in English. We offer a wide range of academic support services and fully-funded scholarship opportunities to recognize and promote academic excellence in the student body. UNIST is determined to provide students with a top-notch education, taught by world-leading scholars.
 
-Excellent People
+**Excellent People**
 UNIST campus is full of talented and dedicated people making important contributions to the life and fabric of our community. UNIST is committed to building an educational community that understands people from culturally and linguistically diverse backgrounds. UNIST is committed to student success, providing co-curricular programs and services to support student engagement and learning. The faculty members at UNIST are at the forefront of their respective fields. Within our faculty are graduates from world-renowned universities, such as Harvard, Yale, MIT, and Stanford Universities.
