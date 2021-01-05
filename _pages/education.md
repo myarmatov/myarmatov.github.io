@@ -8,25 +8,24 @@ redirect_from:
 ---
 {% include base_path %}
 
-* **[Ulsan National Institute of Science and Technology (UNIST).](https://www.unist.ac.kr/)** 
-  * **Bachelor of Engineering:** 08/2017 - 08/2021 (*Expected*)
-  *	**1st major:** Electrical Engineering
-  *	**2nd major:** Computer Science and Engineering
-  * **Related Coursework:** Artificial Intelligence, Computer Vision, Data Mining, AI Programming, Control, Signals and Systems, Algorithms, Data Structures,
+**[Ulsan National Institute of Science and Technology (UNIST).](https://www.unist.ac.kr/)** 
+* **Bachelor of Engineering:** 08/2017 - 08/2021 (*Expected*)
+*	**1st major:** Electrical Engineering
+*	**2nd major:** Computer Science and Engineering
+* **Related Coursework:** Artificial Intelligence, Computer Vision, Data Mining, AI Programming, Control, Signals and Systems, Algorithms, Data Structures,
     Object Oriented Programming, Computer Networks, Digital System Lab, Digital Logic, Probability and Random Process,
     Linear Algebra, Differential Equations, Calculus 1 and 2, Engineering Programming, Entrepreneurship and Big Data, etc.
-  *	**UNIST Global Dream Scholarship:** Free tuition fee + monthly stipend.
-  *	**GPA:** 3.69 (92.9%)
+*	**UNIST Global Dream Scholarship:** Free tuition fee + monthly stipend.
+*	**GPA:** 3.69 (92.9%)
   
   
-  
-  
+____________________________________________________________________________
   
   
   
 **About UNIST from the [Times Higher Education](https://www.timeshighereducation.com/world-university-rankings/ulsan-national-institute-science-and-technology-unist) website.** 
 
-It is ranked 176th in the World University Rankings, 17th in the Young University Rankings, and 23rd in Asia University Rankings of the Times Higher Education. UNIST is a warm and welcoming post-secondary institution located in the heart of South Korea's largest industrial city, Ulsan where world-renowned automotive, shipbuilding, petrochemical, and secondary cells industries are clustered.
+It is ranked 176th in the World University Rankings, 17th in the Young University Rankings, and 23rd in the Asia University. UNIST is a warm and welcoming post-secondary institution located in the heart of South Korea's largest industrial city, Ulsan where world-renowned automotive, shipbuilding, petrochemical, and secondary cells industries are clustered.
 
 Since its opening in 2009, UNIST has grown to become a world-class university, with a rapidly growing reputation for its research and impact on a wide range of fields. Leading scholars from all around the world have been invited to deliver outstanding scientific results and education. UNIST's research facilities, along with its world-class laboratory and state-of-the-art research equipment became an envy of many scientists around the world.
 
@@ -34,9 +33,9 @@ In a short history, UNIST's bold moves have propelled it to become one of world'
 
 UNIST is the only university in South Korea where 100% of lectures are conducted in English. We set standard by bringing a new sensation to the world of education. UNIST has opened its gates to invite gifted students and world-leading scientists from all over the world who dream and have potential of becoming the next Thomas Edison, Albert Einstein, and Bill Gates.
 
-In recent years, UNIST has been designated as one of the world's foremost graphene R&D institutions, hosting three IBS campus-based research centers. These research centers will be receiving $255 million (as of 2015 Dec.) in funding for 10 years from the Institute for Basic Science (IBS), South Korea. With support from the Government of Korea and the city of Ulsan, UNIST hopes to contribute to the development of local industry and economy through transferring the research experience, knowledge, and technology of its scientists.
+In recent years, UNIST has been designated as one of the world's foremost graphene R&D institutions, hosting three IBS campus-based research centers. These research centers will be receiving 255 million USD (as of 2015 Dec.) in funding for 10 years from the Institute for Basic Science (IBS), South Korea. With support from the Government of Korea and the city of Ulsan, UNIST hopes to contribute to the development of local industry and economy through transferring the research experience, knowledge, and technology of its scientists.
 
-UNIST has also won many large-scale national R&D projects, such as Green Energy Material Technology Development Center with funding of $1.7 billion for 5 years and New Growth Engine Project Group with funding of $1.61 billion for 5 years.
+UNIST has also won many large-scale national R&D projects, such as Green Energy Material Technology Development Center with funding of 1.7 billion USD for 5 years and New Growth Engine Project Group with funding of 1.61 billion USD for 5 years.
 
 In 2015, UNIST made the leap from a national university to a government-funded research institute, marking the first major step in realizing its vision to be ranked in the top 10 of globally competitive universities by 2030.
 This status change of UNIST signifies a new beginning, in essence, rebirth of UNIST. This would not only bring UNIST to range with three other Korea's S&T Research Institutes, KAIST, GIST, and DGIST, but also a wider international recognition for UNIST researchers.
